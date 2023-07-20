@@ -1,9 +1,6 @@
 package pages;
 
-import org.openqa.selenium.WebElement;
-
 public class PageBase {
-
 
     public void pause(int millise){
         try {
@@ -12,8 +9,5 @@ public class PageBase {
 
         }
     }
-
-
-
 
 }

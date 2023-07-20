@@ -38,18 +38,11 @@ public class LikedSongsTest extends TestBase {
         pageBase.pause(1500);
         userAccountPage.clickLikedSongsElement();
 //  ___________________________________________________  //
-
         likedSongsPage.getListStr();
-
-
-
-
-
-
 
     }
 
-
+    @Test
     public void loginUser() {
         homePage.openLoginPage();
         pageBase.pause(3000);
