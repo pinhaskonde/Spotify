@@ -10,7 +10,7 @@ public class LoginTestPositive extends TestBase {
 
     PageBase pageBase = new PageBase();
     HomePage homePage;
-//    LoginPage loginPage;
+    LoginPage loginPage;
     UserAccountPage userAccountPage;
     LikedSongsPage likedSongsPage;
 
@@ -30,7 +30,7 @@ public class LoginTestPositive extends TestBase {
         loginPage.inputEmailOrUsername("31rfoxcjjiqeil3rdj5jhlevna4e")
                                         .inputPassword("Albertovich1988")
                                                             .clickLogin();
-//        pageBase.pause(3000);
+        pageBase.pause(5000);
         Assert.assertTrue(userAccountPage.userAccountWidgetElement.isDisplayed());
     }
 
