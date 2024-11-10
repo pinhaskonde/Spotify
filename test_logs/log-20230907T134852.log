@@ -1,0 +1,3 @@
+13:48:59.882 [main] INFO  tests.TestBase - Test result --> FAILED
+13:48:59.888 [main] INFO  tests.TestBase - Stop test ---> login
+13:48:59.888 [main] INFO  tests.TestBase - =========================================================================

@@ -1,0 +1,7 @@
+22:03:25.289 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/workspace/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml
+
+22:03:34.839 [main] INFO  tests.TestBase - User logged in with username: 31rfoxcjjiqeil3rdj5jhlevna4e
+22:03:47.954 [main] INFO  tests.TestBase - Test result --> PASSED
+22:03:47.955 [main] INFO  tests.TestBase - Stop test ---> login
+22:03:47.955 [main] INFO  tests.TestBase - =========================================================================

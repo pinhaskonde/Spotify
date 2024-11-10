@@ -1,0 +1,3 @@
+13:57:56.672 [main] INFO  tests.TestBase - Test result --> PASSED
+13:57:56.676 [main] INFO  tests.TestBase - Stop test ---> getListLikedSongs
+13:57:56.676 [main] INFO  tests.TestBase - =========================================================================

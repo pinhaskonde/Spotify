@@ -1,0 +1,4 @@
+13:36:21.501 [main] INFO  tests.TestBase - User logged in with username: 
+13:36:26.581 [main] INFO  tests.TestBase - Test result --> PASSED
+13:36:26.582 [main] INFO  tests.TestBase - Stop test ---> login
+13:36:26.582 [main] INFO  tests.TestBase - =========================================================================

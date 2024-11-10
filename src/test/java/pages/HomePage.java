@@ -2,7 +2,7 @@ package pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import pages.LoginPage;
+import tests.TestBase;
 
 public class HomePage extends TestBase {
 
@@ -13,9 +13,5 @@ public class HomePage extends TestBase {
         loginButtonElement.click();
         return new LoginPage();
     }
-
-
-
-
 
 }

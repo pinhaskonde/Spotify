@@ -1,0 +1,4 @@
+21:53:27.537 [main] INFO  tests.TestBase - User logged in with username: 31rfoxcjjiqeil3rdj5jhlevna4e
+21:53:29.597 [main] INFO  tests.TestBase - Test result --> FAILED
+21:53:29.598 [main] INFO  tests.TestBase - Stop test ---> login
+21:53:29.598 [main] INFO  tests.TestBase - =========================================================================

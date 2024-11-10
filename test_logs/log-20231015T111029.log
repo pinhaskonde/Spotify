@@ -1,0 +1,7 @@
+11:10:40.109 [main] INFO  tests.TestBase - User logged in with username: 31rfoxcjjiqeil3rdj5jhlevna4e
+11:10:42.160 [main] INFO  tests.TestBase - Test result --> FAILED
+11:10:42.181 [main] INFO  tests.TestBase - Stop test ---> login
+11:10:42.182 [main] INFO  tests.TestBase - =========================================================================
+11:10:47.717 [main] INFO  tests.TestBase - Test result --> FAILED
+11:10:47.718 [main] INFO  tests.TestBase - Stop test ---> testik
+11:10:47.719 [main] INFO  tests.TestBase - =========================================================================

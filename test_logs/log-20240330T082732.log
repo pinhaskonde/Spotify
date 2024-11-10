@@ -1,0 +1,6 @@
+08:27:36.812 [main] INFO  tests.TestBase - Test result --> FAILED
+08:27:36.816 [main] INFO  tests.TestBase - Stop test ---> login
+08:27:36.816 [main] INFO  tests.TestBase - =========================================================================
+08:27:38.990 [main] INFO  tests.TestBase - Test result --> FAILED
+08:27:38.990 [main] INFO  tests.TestBase - Stop test ---> testik
+08:27:38.990 [main] INFO  tests.TestBase - =========================================================================

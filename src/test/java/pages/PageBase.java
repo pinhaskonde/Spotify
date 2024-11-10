@@ -6,7 +6,7 @@ public class PageBase {
         try {
             Thread.sleep(millise);
         }catch (InterruptedException e){
-
+            System.out.println("Error: " + e.getMessage());
         }
     }
 

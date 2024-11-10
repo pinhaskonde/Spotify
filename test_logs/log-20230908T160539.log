@@ -1,0 +1,3 @@
+16:05:54.467 [main] INFO  tests.TestBase - Test result --> FAILED
+16:05:54.475 [main] INFO  tests.TestBase - Stop test ---> getListLikedSongs
+16:05:54.476 [main] INFO  tests.TestBase - =========================================================================

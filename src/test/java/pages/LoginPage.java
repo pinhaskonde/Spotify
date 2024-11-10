@@ -2,6 +2,7 @@ package pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import tests.TestBase;
 
 public class LoginPage extends TestBase {
 
@@ -19,13 +20,14 @@ public class LoginPage extends TestBase {
         return this;
     }
 
-    public LoginPage inputPassword(String password) {
+    public UserAccountPage inputPassword(String password) {
         inputPasswordElement.sendKeys(password);
-        return this;
+        return new UserAccountPage();
     }
 
-    public void clickLogin() {
+    public UserAccountPage clickLogin() {
         loginButtonElement.click();
+        return new UserAccountPage();
     }
 }
 
